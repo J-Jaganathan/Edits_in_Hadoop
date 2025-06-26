@@ -68,12 +68,6 @@ start-yarn.cmd
 
 ---
 
-## 🎁 Bonus
-
-Stay tuned for **RStudio integration** in upcoming parts where I’ll connect Hadoop with powerful analytics tools!
-
----
-
 ## 📜 License
 
 This repository is shared for educational and learning purposes. Feel free to use and modify the configurations as needed.
