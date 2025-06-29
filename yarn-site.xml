@@ -16,6 +16,11 @@
 <!-- Paste this section  instead of <configuration></configuration>-->
 <!-- ************************************************************ -->
 <configuration>
+ <property>
+    <name>yarn.resourcemanager.hostname</name>
+    <value>localhost</value>
+  </property>
+  <property>
   <property>
     <name>yarn.resourcemanager.webapp.address</name>
     <value>localhost:8089</value>
