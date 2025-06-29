@@ -66,7 +66,7 @@ start-yarn.cmd
 ## 🌐 Web UI Access
 
 * **NameNode UI:** [http://localhost:9870](http://localhost:9870)
-* **ResourceManager UI:** [http://localhost:8088](http://localhost:8088) or your configured port
+* **ResourceManager UI:** [http://localhost:8089](http://localhost:8089) or your configured port
 
 ---
 
